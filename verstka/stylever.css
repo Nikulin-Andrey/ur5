@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+}
+html {
+  font-family: "Playfair Display Regular";
+}
+header {
+  margin: 70px;
+}
+.all {
+  max-width: 1200px;
+  margin: auto;
+}
+.all img {
+  display: flex;
+  margin-bottom: 30px;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 80px;
+}
+.nav1 {
+  width: 46.67%;
+}
+button {
+  background-color: #ffffff;
+  border: 0 none;
+}
+.logo {
+  width: 120px;
+  height: 22px;
+  background-image: url("verst/logo.png");
+}
+.nav2 {
+  width: 53.33%;
+  display: flex;
+  justify-content: space-between;
+}
+.nav2 button {
+  width: 113px;
+  color: #acacac;
+  font-family: "Playfair Display Regular";
+  font-size: 14pt;
+  text-transform: uppercase;
+}
+.mainimg {
+  display: flex;
+  margin: auto;
+  width: 100%;
+}
+h1 {
+  color: #626262;
+  font-size: 30pt;
+  font-weight: 100;
+}
+.naz {
+  color: #b4ad9e;
+  font-size: 14pt;
+  text-transform: uppercase;
+  font-family: Ubuntu-Light;
+}
+p {
+  color: #626262;
+}
+.main {
+  margin-left: 150px;
+  margin-right: 150px;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+.photodiary {
+  margin-bottom: 135px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 135px;
+}
+.cont {
+  width: 46.67%;
+}
+.l {
+  width: 100%;
+}
+.b {
+  margin-bottom: 125px;
+}
+.form {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 75px;
+  margin-bottom: 100px;
+}
+.form h1 {
+  color: #333;
+  margin-bottom: 75px;
+}
+.load {
+  height: 60px;
+  width: 18%;
+  font-size: 20pt;
+  border: 1px solid #626262;
+  margin-left: 41%;
+  font-family: "Playfair Display Regular";
+  color: #626262;
+  margin-bottom: 1372px;
+}
+footer{
+	background-color: #f0f0f0;
+	height: 100px;
+	display: flex;
+	align-items: center;
+	padding-right: 70px;
+	justify-content: space-between;
+}
+.footleft{
+	margin-left: 100px;
+	width: 840px;
+}
+.ft{
+	color: black;
+	text-decoration: none;
+	font-family: "Playfair Display Regular";
+	font-size: 14px;
+}
+a{
+	text-decoration: none;
+}
+.footright{
+	display: flex;
+}
+.footright a img{
+	height:20px;
+}
+.inst{
+	height:17px;
+}
