@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: rgb(114, 220, 247);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.container{
+    display: flex;
+    padding: 50px;
+    margin: auto;
+    width: 1000px;
+    height: 1500px;
+    background-color: darkslategray;
+    border: 5px solid royalblue;
+    justify-content: space-between;
+}
+input{
+    background-color: rgb(30, 49, 49);
+    padding: 3px;
+    border: 3px solid rgb(114, 220, 247);
+}
+button{
+    background-color: rgb(30, 49, 49);
+    border: 3px solid rgb(161, 70, 70);
+    padding: 3px;
+}
+#form{
+    border: 5px solid royalblue;
+    padding: 5px;
+    height: 250px;
+}
+table{
+    border-color: royalblue;
+}
