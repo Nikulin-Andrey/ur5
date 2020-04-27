@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+body{
+    height: 3000px;
+}
+#container{
+    border: 2px solid black;
+    width: 100%;
+    height: 1500px;
+    margin: auto;
+    position: relative;
+}
+#contextmenu{
+    height: 150px;
+    display: none;
+    position: absolute;
+}
+#contextitem{
+    border: 1px solid black;
+    background-color: darkgray;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    
+}
+#contextitem:hover{
+    background-color: gray;
+}

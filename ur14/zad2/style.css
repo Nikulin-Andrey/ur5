@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    background-color: honeydew;
+    border: 1px solid black;
+    position: relative;
+    width: 1500px;
+    height: 900px;
+    margin: auto;
+}
+.block {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border: 1px solid black;
+}
+.a{
+    background-color: hotpink;
+    left: 300px;
+    top: 200px;
+}
+.b{
+    background-color: indigo;
+    left: 500px;
+    top: 100px;
+}
+.c{
+    background-color: khaki;
+    left: 100px;
+    top: 20px;
+}
+.d{
+    background-color: lawngreen;
+    left: 650px;
+    top: 700px;
+}
+.red{
+    background-color: red;
+}
