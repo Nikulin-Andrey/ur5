@@ -1,0 +1,43 @@
+body{
+  font-family:sans-serif;
+  background: linear-gradient(to right, rgb(255, 244, 244), rgb(215, 242, 255));
+}
+.wrapper{
+  width: 1000px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 15px;
+  background: radial-gradient(at top left, rgb(255, 246, 161), #A7CECC);
+}
+table {
+  border: 1px solid rgb(151, 151, 151);
+  width: 100%;
+  margin:0;
+  padding:0;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+ 
+table tr {
+  border: 1px solid rgb(141, 140, 140);
+  padding: 5px;
+}
+ 
+table th, table td {
+  padding: 10px;
+  text-align: center;
+  border-right: 1px solid rgb(141, 140, 140);
+  background-color: rgba(0, 82, 235, 0.199);
+}
+ 
+table th, #container td:first-child {
+  color: #fff;
+  background-color: rgba(102, 149, 170, 0.671);
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+h2 {
+  text-align: center;
+  color: rgb(59, 87, 85);
+}
