@@ -1,0 +1,19 @@
+[
+    {
+        "longitude":56,
+        "latitude":34,
+        "wait":1
+    }, {
+        "longitude":56.3,
+        "latitude":34.6,
+        "wait":0.5
+    }, {
+        "longitude":57,
+        "latitude":35,
+        "wait":2
+    }, {
+        "longitude":56,
+        "latitude":35,
+        "wait":0.5
+    }
+]
