@@ -1,0 +1,7 @@
+.not_slected {
+    border: 2px solid red;
+}
+.container {
+    width: 1000px;
+    margin: auto;
+}
